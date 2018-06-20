@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "deepmerge": "^1.5.0",
+    "redux": "^3.7.2",
+    "rxjs": "^5.4.2",
+    "telegraf": "^3.9.0",
+    "webpack": "^3.4.1"
+  },
+  "scripts": {
+    "dev": "BOT_TOKEN='445896736:AAGs6WlMu71BnS5sMp_gljAKok4xf-f4m_0' node ./bot/index.js",
+    "debug": "BOT_TOKEN='445896736:AAGs6WlMu71BnS5sMp_gljAKok4xf-f4m_0' node-debug ./bot/index.js"
+  }
+}
